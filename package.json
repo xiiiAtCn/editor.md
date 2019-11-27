@@ -41,6 +41,9 @@
     "typescript": "^3.7.2"
   },
   "dependencies": {
-    "codemirror": "^5.49.2"
+    "codemirror": "^5.49.2",
+    "lodash": "^4.17.15",
+    "marked": "^0.7.0",
+    "raphael": "^2.3.0"
   }
 }
